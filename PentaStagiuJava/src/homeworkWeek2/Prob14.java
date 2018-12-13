@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
 Write a program to test whether a given string is a palindrome or not
 

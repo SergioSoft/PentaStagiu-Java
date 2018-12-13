@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
  Write a java program to return the index of a target element.
 

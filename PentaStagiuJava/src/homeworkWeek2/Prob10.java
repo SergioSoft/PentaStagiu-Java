@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 
 /*
 Write a program that test if a given String contains another String.

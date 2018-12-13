@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
  Write a program that will return a different string representing the alphabet index of each letter.
 

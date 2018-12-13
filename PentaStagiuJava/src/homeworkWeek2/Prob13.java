@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 
 public class Prob13 {
 //Write a program that will insert a # between any duplicate

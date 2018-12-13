@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
   Write a program that will test whether a string ends with another string
 

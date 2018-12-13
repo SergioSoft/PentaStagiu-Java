@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
  Write a java program that will concatenate 2 arrays. 
 For example

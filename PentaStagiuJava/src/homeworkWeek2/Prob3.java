@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
 Write a program that will print the first x fibonacci numbers. Also calculate the average value. For example
 For an input of x = 20 the output should be:

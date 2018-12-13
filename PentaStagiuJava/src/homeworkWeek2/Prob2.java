@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
 Write a program that will calculate the average and sum of all numbers between the range of 2 numbers.
 

@@ -1,4 +1,4 @@
-package homework;
+package homeworkWeek2;
 /*
 Write a program that will count how many times a character appears in a String
 
