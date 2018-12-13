@@ -5,8 +5,7 @@ public class Shapes {
 		private int r;
 		public Circle(int radius) {
 			this.r = radius;			
-		}
-		
+		}		
 		public double getAreaCircle(){
 			return Math.PI * r * r;
 		}
@@ -22,7 +21,7 @@ public class Shapes {
 			return a * a;
 		}
 		public long getPerimeterSquare() {
-			return 4*a;
+			return 4 * a;
 		}
 	}
 	public class Triangle{
