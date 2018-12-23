@@ -1,11 +1,11 @@
-package homeworkWeek3;
+package homeworkWeek3.Prob1;
 
 import java.util.Arrays;
 
-import homeworkWeek3.Shapes.Circle;
-import homeworkWeek3.Shapes.Rectangle;
-import homeworkWeek3.Shapes.Square;
-import homeworkWeek3.Shapes.Triangle;
+import homeworkWeek3.Prob1.Shapes.Circle;
+import homeworkWeek3.Prob1.Shapes.Rectangle;
+import homeworkWeek3.Prob1.Shapes.Square;
+import homeworkWeek3.Prob1.Shapes.Triangle;
 
 public class ShapesApp {
 

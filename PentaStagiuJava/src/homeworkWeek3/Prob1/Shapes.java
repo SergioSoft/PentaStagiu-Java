@@ -1,4 +1,4 @@
-package homeworkWeek3;
+package homeworkWeek3.Prob1;
 
 public class Shapes {
 	public class Circle{
