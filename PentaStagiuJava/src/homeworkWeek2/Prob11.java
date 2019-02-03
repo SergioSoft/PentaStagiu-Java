@@ -10,7 +10,7 @@ public class Prob11 {
 
 	public static void main(String[] args) {
 		String str = "Hello java world";
-		String strTarget = "a";
+		String strTarget = "l";
 		int count  = 0;
 			for (int i=0; i<str.length(); i++ ) {
 				if(str.charAt(i) == strTarget.charAt(0)) {
