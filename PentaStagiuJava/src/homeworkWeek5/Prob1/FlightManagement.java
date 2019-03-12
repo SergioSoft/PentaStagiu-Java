@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
+
 import homeworkWeek5.Prob1.Flight.StatusEnum;
 
 public class FlightManagement {
@@ -205,8 +206,6 @@ public class FlightManagement {
     }
 
     public void showFlightsStatus(StatusEnum status) {
-        //How many / what are the flights that already landed at destination (we assume no delay)
-        // we will update status before print
         updateFlights();
         System.out.println("Flights with status " + status);
         flights.stream().filter(p -> p.getStatus().equals(status)).forEach(p -> System.out.println(p.getName() + " " + p.getStatus()));
