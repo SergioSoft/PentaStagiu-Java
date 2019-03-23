@@ -1,5 +1,5 @@
 AirpApp\User.class
-AirpApp\MainApp.class
-AirpApp\StatusEnum.class
 AirpApp\FlightManagement.class
 AirpApp\Flight.class
+AirpApp\MainApp.class
+AirpApp\StatusEnum.class
