@@ -1,4 +1,4 @@
-package AirpApp;
+package airpApp;
 enum StatusEnum {
 		    SCHEDULED, CANCELED, FINISHED;
 		}

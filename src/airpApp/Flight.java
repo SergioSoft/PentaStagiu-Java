@@ -1,4 +1,4 @@
-package AirpApp;
+package airpApp;
 import java.text.Format;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
